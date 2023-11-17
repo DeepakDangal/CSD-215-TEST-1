@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "isGRMQPqcBN6+HiW4HNxBTsC6WauQ89TuFW4jR8AhMmPnINwk5Ymx9778E+rML+3MCgrM4mpa49qkI74hFVeJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deepa\\OneDrive\\Desktop\\sem3\\programming paradigm\\test\\MyFSharpApp\\MyFSharpApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deepa\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
